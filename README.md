@@ -1,0 +1,2 @@
+# SimplifiedMidTerm
+Midterm Project
